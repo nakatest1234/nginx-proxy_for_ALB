@@ -1,4 +1,4 @@
-nx-proxy for ALB
+nginx-proxy for ALB
 
 ## 共通ネットワーク作成
 ```
